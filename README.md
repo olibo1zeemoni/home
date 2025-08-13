@@ -1,3 +1,3 @@
 # home
-#Welcome to my webiste where I showcase my projects
+#Welcome to my website where I showcase my projects
 #Enjoy 🍻
